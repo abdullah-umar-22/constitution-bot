@@ -12,9 +12,12 @@ It uses **LangChain**, **ChromaDB**, **Google Gemini API**, and a **React + Vite
 - **Frontend in React + Vite + Tailwind**
 
 ## Project Structure
-main/
+main/  
+
 │── backend/ # FastAPI backend with RAG pipeline  
+
 │── frontend/ # React + Vite + Tailwind frontend  
+ 
 └── README.md
 
 
